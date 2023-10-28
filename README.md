@@ -23,11 +23,15 @@ Code in <b>C/C++</b> for Arduino. Created for <b>TCC</b> in the Bachelor's degre
 <hr>
 
 <h3 align="left">
-    <b>Observação</b>
+    <b>Obs / Ps:</b>
 </h3>
 
 <p>
 O arquivo <b>Main.c</b> é o mesmo do <b>sinais_neurais_tcc.ino</b>, ele apenas esta melhor identado para uma leitura melhor e facil manutenção. O arquivo que será feito o upload no microcontrolador é o <b>sinais_neurais_tcc.ino</b>.
+</p>
+
+<p>
+The <b>Main.c</b> file is the same as <b>sinais_neurais_tcc.ino</b>, it is just better identified for better reading and easier maintenance. The file that will be uploaded to the microcontroller is <b>sinais_neurais_tcc.ino</b>.
 </p>
 
 ## Tecnologias usadas / Technologies used:
