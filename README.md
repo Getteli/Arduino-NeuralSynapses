@@ -1,4 +1,4 @@
-# arduino: captar sinapses
+# Arduino: Neural synapses
 <p align="center"><a href="https://getteli.github.io/aia/" target="_blank"><img src="https://www.unicarioca.edu.br/sites/default/files/marca.png" width="200"></a></p>
 
 <h2 align="center">
