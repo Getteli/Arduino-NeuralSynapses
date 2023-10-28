@@ -20,6 +20,16 @@ Código em <b>C/C++</b> para Arduino. Criado para o <b>TCC</b> na graduação em
 Code in <b>C/C++</b> for Arduino. Created for <b>TCC</b> in the Bachelor's degree in <b>Computer Science</b>, <b>2023</b>. This code is for capturing and reading neural synapses on an oscilloscope and making an LED light up when performing a motor action, lifting an arm for example.
 </p>
 
+<hr>
+
+<h3 align="left">
+    <b>Observação</b>
+</h3>
+
+<p>
+O arquivo <b>Main.c</b> é o mesmo do <b>sinais_neurais_tcc.ino</b>, ele apenas esta melhor identado para uma leitura melhor e facil manutenção. O arquivo que será feito o upload no microcontrolador é o <b>sinais_neurais_tcc.ino</b>.
+</p>
+
 ## Tecnologias usadas / Technologies used:
 - **[Arduino](https://www.arduino.cc/)**;
 - **[C/C++](https://learn.microsoft.com/pt-br/cpp/cpp)**;
