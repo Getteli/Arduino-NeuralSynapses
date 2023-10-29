@@ -73,11 +73,8 @@
 				// armazena o binario na string
 				binario += bitRead(valorAnalogico, i);
 
-				// se for para ler o binário, entao adiciona o bit um ao lado do outro
-				if(lerBinario)
-				{
-					Serial.print(bitRead(valorAnalogico, i));
-				}
+				// adiciona os bits, convertidos do sinal analógico, um ao lado do outro, em uma cadeia de bits
+				Serial.print(bitRead(valorAnalogico, i));
 			}
 
 			// converte o binario completo para um numero em decimal
