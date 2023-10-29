@@ -1,5 +1,5 @@
 # Arduino: Neural Synapses
-<p align="center"><a href="https://getteli.github.io/aia/" target="_blank"><img src="https://www.unicarioca.edu.br/sites/default/files/marca.png" width="200"></a></p>
+<p align="center"><a href="#"><img src="https://www.unicarioca.edu.br/sites/default/files/marca.png" width="200"></a></p>
 
 <h2 align="center">
     <b>Prototype on Arduino</b> /
