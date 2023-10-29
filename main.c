@@ -90,6 +90,11 @@
 				Serial.print(binarioConvertido); // exibe o valor convertido do binário
 				Serial.print(" ---------\n");
 			}
+			else
+			{
+				// se não, apenas quebra a linha da exibição dos binários
+				Serial.println();
+			}
 
 			/* ACENDE O LED PELA AÇÃO */
 			if(binarioConvertido >= faixaEstavel)
