@@ -11,7 +11,7 @@
 	int   ledSinal            = 7;		// indica a porta em que o led está conectado
 	float reducaoTensao       = 0.5;	// Fator de redução de tensão em % (1 = 100%)
 	float VoltagemReferencial = 5;		// valor de referencia da voltagem com que o arduino mega AT2560 trabalha (4.5v ~ 5.5v)
-	int   bits				  = 9;		// váriavel que armazenará a quantidades de bits do arduino (começando do 0 até 9 = 10)
+	int   bits		  = 9;		// váriavel que armazenará a quantidades de bits do arduino (começando do 0 até 9 = 10)
 	int   valorOnda           = 1023;	// valor analógico em quantidade de BITS, com que o mega AT2560 trabalha com 10 bits (2^N - 1)
 	int   valorAnalogico      = 0;		// váriavel que armazenará o valor elétrico lido
 	float tensaoLida          = 0;		// váriavel que armazenará o resultado da formula de tensão
