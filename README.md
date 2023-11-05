@@ -27,11 +27,11 @@ Code in <b>C/C++</b> for Arduino. Created for <b>TCC</b> in the Bachelor's degre
 </h3>
 
 <p>
-O arquivo <b>Main.c</b> é o mesmo do <b>sinais_neurais_tcc.ino</b>, ele apenas esta melhor identado para uma leitura melhor e facil manutenção. O arquivo que será feito o upload no microcontrolador é o <b>sinais_neurais_tcc.ino</b>.
+O arquivo <b>Arduino-NeuralSynapses.ino</b> é para ser feito o upload em um microcontrolador, mas ainda sim está na linguagem C/C++. Para a leitura, seja em terminal (vendo os bits e/ou o número decimal) ou o osciloscópio é pelo terminal integrado no <b>Arduino IDE</b>
 </p>
 
 <p>
-The <b>Main.c</b> file is the same as <b>sinais_neurais_tcc.ino</b>, it is just better identified for better reading and easier maintenance. The file that will be uploaded to the microcontroller is <b>sinais_neurais_tcc.ino</b>.
+The file <b>Arduino-NeuralSynapses.ino</b> is to be uploaded to a microcontroller, but it is still in the C/C++ language. For reading, either using a terminal (seeing the bits and/or the decimal number) or the oscilloscope, using the terminal integrated into the <b>Arduino IDE</b>
 </p>
 
 ## Tecnologias usadas / Technologies used:
